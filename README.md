@@ -18,5 +18,5 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 ## Integrantes do grupo:
 - Agatha Regis Chiappetta de Oliveira - 15479576 ([Github](https://github.com/agathaicmc))
 - Kaique Amaral Ribeiro - 16879786
-- Luís Felipe Guadagnim - 16885592
+- Luís Felipe Guadagnim - 16885592 ([Github](https://github.com/luisguada))
 - Miya Parus Rios - 16910825
