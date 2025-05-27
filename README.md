@@ -15,8 +15,10 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 
 ## Explicação dos Componentes:
 ### ➣ Transformador:
+Um transformador é um dispositivo destinado a modificar os níveis de tensão e corrente elétrica, mantendo potência elétrica praticamente constante. No circuito, seu trabalho é tornar a corrente alternada em algo mais estático. O transformador utilizado é um cuja saída é de 18.1V.
 
 ### ➣ Protoboard:
+Placa de plástico furada que permite a inserção de componentes para a montagem de protótipos e circuitos eletrônicos temporários. Com ela, podemos conectar os componentes do circuito sem a necessidade de soldá-los, tornando possível a experimentação do nosso projeto sem grandes dificuldades.
 
 ### ➣ Diodos:
 
