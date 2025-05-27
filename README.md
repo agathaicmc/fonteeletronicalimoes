@@ -4,7 +4,7 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 ## Tabela dos Componentes:
 | Itens      |  Quantidade   | Valor |
 |------------|----------| ---- |
-| Transformador: |    1  | Emprestado |
+| Transformador 18.1V: |    1  | Emprestado |
 | Protoboard 830 Pts: | 1 | R$10,35 |
 | Diodos: | 4 | R$0,18 (total R$0,72) |
 | Capacitor 1000uF/50V: | 1 | R$3,70 |
