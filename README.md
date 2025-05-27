@@ -10,7 +10,7 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 | Capacitor 1000uF/50V: | 1 | R$3,70 |
 | Potênciometro 10kΩ/1W: | 1 | R$7,00 |
 | Transistor TIP41C NPN: | 1 | R$3,00 |
-| Diodo Zener 13V 1W: | 1 | R$0,50 |
+| Diodo Zener 13V 1W: |1 | R$0,50 |
 | Led 5mm Vermelho: |1 | R$0,28 |
 
 ## Explicação dos Componentes:
