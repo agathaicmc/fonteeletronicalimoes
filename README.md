@@ -2,16 +2,16 @@
 Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica para Computação.
 
 ## Tabela dos Componentes:
-| Itens      |  Valor   |
-|------------|----------|
-| Transformador: |    Emprestado  |
-| Protoboard 830 Pts: | R$10,35 |
-| Diodo da Silva Sauro (x4) : | R$0,18 (total R$0,72) |
-| Capacitor 1000uF/50V: | R$3,70 |
-| Potênciometro 10kΩ/1W: | R$7,00 |
-| Transistor TIP41C NPN: | R$3,00 |
-| Diodo Zener 13V 1W: | R$0,50 |
-| Led 5mm Vermelho: | R$0,28 |
+| Itens      |  Quantidade   | Valor |
+|------------|----------| ---- |
+| Transformador: |    1  | Emprestado |
+| Protoboard 830 Pts: | 1 | R$10,35 |
+| Diodo da Silva Sauro : | 4 | R$0,18 (total R$0,72) |
+| Capacitor 1000uF/50V: | 1 | R$3,70 |
+| Potênciometro 10kΩ/1W: | 1 | R$7,00 |
+| Transistor TIP41C NPN: | 1 | R$3,00 |
+| Diodo Zener 13V 1W: | 1 | R$0,50 |
+| Led 5mm Vermelho: | 1 | R$0,28 |
 
 ## Explicação dos Componentes:
 ### ➣ Transformador:
