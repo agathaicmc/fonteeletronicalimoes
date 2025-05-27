@@ -14,7 +14,21 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 | Led 5mm Vermelho: | R$0,28 |
 
 ## Explicação dos Componentes:
+➣Transformador:
 
+➣Protoboard 8230 Pts:
+
+➣Diodos:
+
+➣Capacitor 1000uF/50V:
+
+➣Potênciometro 10kΩ/1W:
+
+➣Transistor TIP41C NPN:
+
+➣Diodo Zener 13V 1W:
+
+➣Led 5mm Vermelho:
 ## Circuito no Falstad:
 
 ## Esquemático no EAGLE:
