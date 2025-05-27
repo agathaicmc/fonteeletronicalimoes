@@ -16,19 +16,19 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 ## Explicação dos Componentes:
 ### Transformador:
 
-### Protoboard 830 Pts:
+### Protoboard:
 
 ### Diodos:
 
-### Capacitor 1000uF/50V:
+### Capacitor:
 
-### Potênciometro 10kΩ/1W:
+### Potênciômetro:
 
-### Transistor TIP41C NPN:
+### Transistor:
 
-### Diodo Zener 13V 1W:
+### Diodo Zener:
 
-### Led 5mm Vermelho:
+### Led:
 
 
 ## Circuito no Falstad:
