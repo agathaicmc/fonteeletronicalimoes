@@ -6,7 +6,7 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 |------------|----------| ---- |
 | Transformador: |    1  | Emprestado |
 | Protoboard 830 Pts: | 1 | R$10,35 |
-| Diodo da Silva Sauro : | 4 | R$0,18 (total R$0,72) |
+| Diodos: | 4 | R$0,18 (total R$0,72) |
 | Capacitor 1000uF/50V: | 1 | R$3,70 |
 | Potênciometro 10kΩ/1W: | 1 | R$7,00 |
 | Transistor TIP41C NPN: | 1 | R$3,00 |
