@@ -27,13 +27,16 @@ Um díodo é um dispositivo semicondutor que permite a passagem de corrente elé
 O capacitor tem a capacidade de armazenar e descarregar cargas elétricas. No nosso circuito, o capacitador serve como retificador de corrente elétrica; ele cria uma corrente de ripple, fazendo com que a corrente alternada do circuito se aproxime de uma corrente constante.
 
 ### ➣ Potênciômetro:
+O potenciômetro serve para variar a resistência elétrica em determinado ponto do circuito, aumentando ou diminuindo a voltagem resultante. No nosso circuito, ele vai servir para que a tensão da fonte seja ajustável entre 3V e 12V.
 
 ### ➣ Transistor:
+O transistor é um componente que, no nosso projeto, permite a amplificação da corrente resultante em determinado ponto do circuito.
 
 ### ➣ Diodo Zener:
+É uma variação do diodo comum, utilizado como regulador de tensão. No nosso circuito, ele funciona "segurando" o excesso de voltagem.
 
 ### ➣ Led:
-
+Um led de 5mm, utilizado para conseguirmos descobrir na vida real se a corrente está constante ou não.
 
 ## Circuito no Falstad:
 
