@@ -37,6 +37,8 @@ O capacitor tem a capacidade de armazenar e descarregar cargas elétricas. No no
 
 ## Circuito no Falstad:
 
+blob:https://imgur.com/237e4072-198f-432d-bc47-63f72025c2b6
+
 ## Esquemático no EAGLE:
 
 ## PCB no EAGLE:
