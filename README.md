@@ -40,7 +40,7 @@ Um led de 5mm, utilizado para conseguirmos descobrir na vida real se a corrente 
 
 ## Circuito no Falstad:
 
-blob:https://imgur.com/237e4072-198f-432d-bc47-63f72025c2b6
+![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/falstad.png "Circuito no Falstad")
 
 ## Esquemático no EAGLE:
 
