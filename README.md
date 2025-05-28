@@ -21,8 +21,10 @@ Um transformador é um dispositivo destinado a modificar os níveis de tensão e
 Placa de plástico furada que permite a inserção de componentes para a montagem de protótipos e circuitos eletrônicos temporários. Com ela, podemos conectar os componentes do circuito sem a necessidade de soldá-los, tornando possível a experimentação do nosso projeto sem grandes dificuldades.
 
 ### ➣ Diodos:
+Um díodo é um dispositivo semicondutor que permite a passagem de corrente elétrica apenas num sentido, atuando como um interruptor bidirecional. No nosso projeto, quatro diodos são utilizados para fazer uma ponte de diodos, fazendo com que a corrente — que constantemente alterna entre valores positivos e negativos — varie somente em valores positivos.
 
 ### ➣ Capacitor:
+O capacitor tem a capacidade de armazenar e descarregar cargas elétricas. No nosso circuito, o capacitador serve como retificador de corrente elétrica; ele cria uma corrente de ripple, fazendo com que a corrente alternada do circuito se aproxime de uma corrente constante.
 
 ### ➣ Potênciômetro:
 
