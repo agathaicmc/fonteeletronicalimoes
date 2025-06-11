@@ -41,6 +41,9 @@ O transistor é um componente que, no nosso projeto, permite a amplificação da
 ### ➣ Led:
 Um led de 5mm, utilizado para conseguirmos descobrir na vida real se a corrente está constante ou não.
 
+### ➣ Resistores:
+Usados para controlar a corrente que passa pelo circuito, para que ele não exploda.
+
 ## Circuito no Falstad:
 
 ![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/falstad.png "Circuito no Falstad")
