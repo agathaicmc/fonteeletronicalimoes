@@ -12,6 +12,8 @@ Projeto da Fonte de Tensão Ajustável para a Disciplina SSC0180 - Eletrônica p
 | Transistor TIP41C NPN: | 1 | R$3,00 |
 | Diodo Zener 13V 1W: |1 | R$0,50 |
 | Led 5mm Verde: |1 | R$0,28 |
+| Resistor 1kΩ: |11 | R$0,10 (total R$1,10) |
+| Resistor 100Ω/5W: |1 | R$3,00 |
 
 ## Explicação dos Componentes:
 ### ➣ Transformador:
