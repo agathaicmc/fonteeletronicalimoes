@@ -52,7 +52,7 @@ Usados para controlar a corrente que passa pelo circuito, para que ele não expl
 
 ## Esquemático no EAGLE:
 
-![alt text](https://github.com/agathaicmc/fonteletronicalimoes/blob/main/imagens/eagle\esquematico/ "Esquemático no Eagle")
+![alt text](https://github.com/agathaicmc/fonteletronicalimoes/blob/main/imagens/eagle\esquematico.jpeg "Esquemático no Eagle")
 
 ## PCB no EAGLE:
 
