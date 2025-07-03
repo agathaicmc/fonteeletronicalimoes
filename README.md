@@ -59,8 +59,8 @@ Usados para controlar a corrente que passa pelo circuito, para que ele não expl
 ![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/eaglepcb.jpeg "PCB no Eagle")
 
 ## Vídeos do Projeto:
-![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/video1.mp4 "Vídeo do Circuito")
-![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/video2.mp4 "Vídeo do Circuito")
+[Link](https://youtu.be/QBP6fU9tdMA)
+[Link](https://youtube.com/shorts/xXgkoYUCxDY)
 
 ## Imagens:
 ![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/imagem1.jpeg "Foto do Circuito")
