@@ -60,6 +60,7 @@ Usados para controlar a corrente que passa pelo circuito, para que ele não expl
 
 ## Vídeos do Projeto:
 [Link](https://youtu.be/QBP6fU9tdMA)
+
 [Link](https://youtube.com/shorts/xXgkoYUCxDY)
 
 ## Imagens:
