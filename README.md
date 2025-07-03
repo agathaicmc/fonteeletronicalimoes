@@ -59,8 +59,13 @@ Usados para controlar a corrente que passa pelo circuito, para que ele não expl
 ![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/eaglepcb.jpeg "PCB no Eagle")
 
 ## Vídeos do Projeto:
+![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/video1.mp4 "Vídeo do Circuito")
+![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/video2.mp4 "Vídeo do Circuito")
 
 ## Imagens:
+![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/imagem1.jpeg "Foto do Circuito")
+![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/imagem2.jpeg "Foto do Circuito")
+![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/imagem3.jpeg "Foto do Circuito")
 
 ## Integrantes do grupo:
 - Agatha Regis Chiappetta de Oliveira - 15479576 ([Github](https://github.com/agathaicmc))
