@@ -58,7 +58,7 @@ Usados para controlar a corrente que passa pelo circuito, para que ele não expl
 
 ![alt text](https://github.com/agathaicmc/fonteeletronicalimoes/blob/main/imagens/eaglepcb.jpeg "PCB no Eagle")
 
-## Vídeo do Projeto:
+## Vídeos do Projeto:
 
 ## Imagens:
 
